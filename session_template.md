@@ -1,4 +1,4 @@
-# Mentorship Session Booking Template
+# Mentorship Session with Saya
 
 Thank you for scheduling a mentorship session! Please provide the following details to help me make the most of our time together.
 Feel free to make a copy and share the details via email/ open an issue
